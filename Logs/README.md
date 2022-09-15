@@ -14,13 +14,16 @@ End date:
 
 ### Day 1: 
 
-example, here I am connected to the code for [Day 1](https://github.com/RobertAppleton/100Days/tree/Bob/Code/Day1)
+modified wave sample of p5js
 
->> Just remember that you must change `robots-make-art-too` 
->> in the links demoed here to your own github account otherwise you
->> will keep linking to my main template repo, and not your own work!
+[Day 1](https://github.com/RobertAppleton/100Days/tree/Bob/Code/Day1)
+
 
 ### Day 2: 
+
+[Day 2](https://github.com/RobertAppleton/100Days/tree/Bob/Code/Day2)
+
+modified clock sample of p5js
 
 
 ### Day 3: 
@@ -32,3 +35,5 @@ example, here I am connected to the code for [Day 1](https://github.com/RobertAp
 ## Links to resources
 
 You could add links to references or additional content here
+
+example <https://github.com/RobertAppleton/100Days/tree/Bob/Code/>
