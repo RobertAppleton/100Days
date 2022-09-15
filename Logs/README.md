@@ -14,7 +14,7 @@ End date:
 
 ### Day 1: 
 
-example, here I am connected to the code for [Day 1](https://github.com/robots-make-art-too/100Days/tree/main/Code/Day1)
+example, here I am connected to the code for [Day 1](https://github.com/RobertAppleton/100Days/tree/Bob/Code/Day1)
 
 >> Just remember that you must change `robots-make-art-too` 
 >> in the links demoed here to your own github account otherwise you
